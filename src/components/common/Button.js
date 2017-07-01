@@ -15,7 +15,7 @@ const Button = ({ onPress, children }) => {
 
 const styles = {
   buttonStyle: {
-    flex: 1,
+    flexGrow: 1,
     alignSelf: 'stretch',
     backgroundColor: '#fff',
     borderRadius: 5,
